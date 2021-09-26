@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="-1", BeinPrem1
+http://ycn1.bawsaraskhou.xyz.global.prod.fastly.net/live/6161655/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", BeinPrem2
+http://ycn1.bawsaraskhou.xyz.global.prod.fastly.net/live/616194987/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", BeinPrem3
+http://ycn1.bawsaraskhou.xyz.global.prod.fastly.net/live/6151278887/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", BeinXtra1
+Http://ycn1.bawsaraskhou.xyz.global.prod.fastly.net/live/9962564400/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", BeinXtra2
+Http://ycn1.bawsaraskhou.xyz.global.prod.fastly.net/live/880025552/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", BeinSport1
+Http://ycn1.bawsaraskhou.xyz.global.prod.fastly.net/live/918454578/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", BeinSport2
+Http://ycn1.bawsaraskhou.xyz.global.prod.fastly.net/live/69854211/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", BeinSport3
+Http://ycn1.bawsaraskhou.xyz.global.prod.fastly.net/live/645587700/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", BeinSport4
+Http://ycn1.bawsaraskhou.xyz.global.prod.fastly.net/live/9787488847/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", BeinSport5
+http://55.banrhfour.xyz.global.prod.fastly.net/live/610303030/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", BeinSport6
+http://55.banrhfour.xyz.global.prod.fastly.net/live/1515000000/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", Bein Fra1
+Http://ycn1.bawsaraskhou.xyz.global.prod.fastly.net/live/33523510/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", Bein Fra2
+Http://ycn1.bawsaraskhou.xyz.global.prod.fastly.net/live/652177700/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", Bein Fra3
+Http://ycn1.bawsaraskhou.xyz.global.prod.fastly.net/live/62464521/index.m3u8
