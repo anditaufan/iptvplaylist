@@ -17,6 +17,15 @@ Http://88.barouhn.xyz.global.prod.fastly.net/live/69854211/index.m3u8
 Http://88.barouhn.xyz.global.prod.fastly.net/live/6151278887/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", BeinSport4
 Http://88.barouhn.xyz.global.prod.fastly.net/live/9787488847/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", BeinSport5
+http://55.banrhfour.xyz.global.prod.fastly.net/live/610303030/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", BeinSport6
+http://55.banrhfour.xyz.global.prod.fastly.net/live/1515000000/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", BeinSport7
+http://55.banrhfour.xyz.global.prod.fastly.net/live/791001144/index.m3u8
+
+
+
 #EXTINF:0 type="stream" channelId="-1", Bein Fra1
 Http://88.barouhn.xyz.global.prod.fastly.net/live/33523510/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Bein Fra2
