@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0 type="stream" channelId="-1", BeinPrem1
-http://88.barouhn.xyz.global.prod.fastly.net/live/6161655/index.m3u8
+http://88.barouhn.xyz.global.prod.fastly.net/live/616165500/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", BeinPrem2
 http://88.barouhn.xyz.global.prod.fastly.net/live/616194987/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", BeinPrem3
