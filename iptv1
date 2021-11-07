@@ -2,7 +2,7 @@
 #EXTINF:0 type="stream" channelId="-1", BeinPrem1
 http://88.barouhn.xyz.global.prod.fastly.net/live/616165500/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", BeinPrem2
-http://88.barouhn.xyz.global.prod.fastly.net/live/616194987/index.m3u8
+http://88.barouhn.xyz.global.prod.fastly.net/live/61619498700/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", BeinPrem3
 http://88.barouhn.xyz.global.prod.fastly.net/live/6151278887/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", BeinXtra1
@@ -10,7 +10,7 @@ Http://88.barouhn.xyz.global.prod.fastly.net/live/9962564400/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", BeinXtra2
 Http://88.barouhn.xyz.global.prod.fastly.net/live/880025552/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", BeinSport1
-Http://88.barouhn.xyz.global.prod.fastly.net/live/918454578/index.m3u8
+Http://88.barouhn.xyz.global.prod.fastly.net/live/91845457800/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", BeinSport2
 Http://88.barouhn.xyz.global.prod.fastly.net/live/69854211/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", BeinSport3
